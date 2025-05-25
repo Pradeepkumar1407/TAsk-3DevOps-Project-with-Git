@@ -14,4 +14,4 @@ This is a sample static site managed using Git and GitHub using following step.
 5. then added .git ignorefile to specifically tell Git to ignore certain files/folders.
 6.then added git tags to specfiy it's version.
 7.Then deployed it from main branch using git hub pages.
-Live Link: 
+Live Link: https://pradeepkumar1407.github.io/TAsk-3DevOps-Project-with-Git/
